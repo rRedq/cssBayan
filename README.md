@@ -1,1 +1,1 @@
-https://rRedq.github.io/cssBayan/cssBayan/index.html
+https://rRedq.github.io/cssBayan/index.html
